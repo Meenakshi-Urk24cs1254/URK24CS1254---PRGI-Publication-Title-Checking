@@ -50,7 +50,7 @@ Proposed Title Submission
 
 ### Prerequisites
 
-* **Python 3.11** or **Python 3.13** *(Recommended for PyTorch and Sentence-Transformers stability)*
+* **Python 3.13** *(For PyTorch and Sentence-Transformers stability)*
 * VS Code (optional, but recommended)
 
 ### 1. Install Dependencies
